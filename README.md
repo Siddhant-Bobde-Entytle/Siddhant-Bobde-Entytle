@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddhant Bobde
 - 👀 I’m interested in software development
-- 🌱 I’m am a final year B.Tech. student
+- 🌱 I'm a Computer Engineer from VIT Pune
 - 👋 Doing my internship at Entytle.
 - 👋 My hobbies are playing badminton, video games.
 - 📫 You can connect with me by the email- siddhantbobde1704@gmail.com
