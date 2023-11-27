@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Siddhant Bobde
 - 👀 I’m interested in software development
 - 🌱 I'm a Computer Engineer from VIT Pune
-- 👋 Doing my internship at Entytle.
+- 👋 Currently I am working at Entytle Inc.
 - 👋 My hobbies are playing badminton, video games.
-- 📫 You can connect with me by the email- siddhantbobde1704@gmail.com
+- 📫 Connect with me- siddhantbobde1704@gmail.com
 
 <!---
 Siddhant-Bobde-Entytle/Siddhant-Bobde-Entytle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
